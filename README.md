@@ -1,4 +1,4 @@
-# project-productsManagementGroup60
+# project
 ## Project - Products Management
 
 ### Key points
